@@ -1,0 +1,16 @@
+fastapi==0.112.1
+uvicorn[standard]==0.30.6
+pydantic==2.8.2
+python-dotenv==1.0.1
+requests==2.32.3
+ics==0.7.2
+
+# LangChain / Vector DB / Embeddings / LangGraph
+langchain==0.2.14
+langchain-community==0.2.12
+langgraph==0.2.26
+chromadb==0.5.5
+sentence-transformers==3.0.1
+tqdm==4.66.5
+
+# Optional: Ollama integration via LangChain community
