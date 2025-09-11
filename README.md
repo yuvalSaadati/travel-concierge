@@ -1,6 +1,6 @@
 # Travel Concierge & Itinerary Optimizer (LangGraph + LangChain)
 
-A compact, interview-ready project that demonstrates **LangGraph orchestration**, **LangChain RAG** over a local **Chroma** vector store, **multi-agent style workflow**, simple **memory**, and **tool-using nodes** (weather, FX). It produces a day-by-day itinerary and an `.ics` calendar export.
+A project that demonstrates **LangGraph orchestration**, **LangChain RAG** over a local **Chroma** vector store, **multi-agent style workflow**, simple **memory**, and **tool-using nodes** (weather, FX). It produces a day-by-day itinerary and an `.ics` calendar export.
 
 ## Features
 - LangGraph state machine with nodes: research → plan → budget → critic → finalize
