@@ -84,10 +84,3 @@ apps/api/
 data/guides/     # sample RAG data
 vectorstore/     # created at runtime for Chroma persistence
 ```
-
-## Talking points for interviews
-- How LangGraph nodes & conditional edges orchestrate the workflow
-- Why Chroma + sentence-transformers for local, zero-cost RAG
-- Tool calling (weather/FX/POI) and guardrails (fallbacks if APIs fail)
-- Memory: how user preference JSON is read back to bias planning
-- Extension ideas: budget optimizer, multi-city routing, web UI, MCP bridge
