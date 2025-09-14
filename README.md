@@ -9,7 +9,6 @@ A project that demonstrates **LangGraph orchestration**, **LangChain RAG** over 
 - Optional tool: **OpenTripMap** (POIs — needs free API key; falls back without it)
 - Memory: saves simple user preferences in a local JSON file
 - FastAPI endpoints (`/ingest`, `/plan`, `/health`)
-- Works without paid LLMs; if you have **Ollama** installed, it will use it automatically
 
 ## Quickstart
 
